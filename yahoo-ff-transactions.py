@@ -1,6 +1,5 @@
 import mechanize
 from bs4 import BeautifulSoup
-import urllib
 
 username = 'username@yahoo.com'
 password = 'password'
